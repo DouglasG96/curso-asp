@@ -26,7 +26,7 @@ namespace CrudEntityFramework
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ApplicationDbContext>(options => options
-            .UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            .UseSqlServer(Configuration.GetConnectionString("DefaultConnections")));
             services.AddControllersWithViews();
         }
 
