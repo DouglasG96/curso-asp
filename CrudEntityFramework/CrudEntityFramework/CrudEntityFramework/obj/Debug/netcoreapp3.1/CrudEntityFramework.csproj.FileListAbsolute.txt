@@ -150,3 +150,7 @@ D:\Repositorios\curso-asp\CrudEntityFramework\CrudEntityFramework\CrudEntityFram
 D:\Repositorios\curso-asp\CrudEntityFramework\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.pdb
 D:\Repositorios\curso-asp\CrudEntityFramework\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.genruntimeconfig.cache
 D:\Repositorios\curso-asp\CrudEntityFramework\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.csproj.AssemblyReference.cache
+D:\Repositorios\curso-asp\CrudEntityFramework\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+D:\Repositorios\curso-asp\CrudEntityFramework\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+D:\Repositorios\curso-asp\CrudEntityFramework\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\Repositorios\curso-asp\CrudEntityFramework\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
