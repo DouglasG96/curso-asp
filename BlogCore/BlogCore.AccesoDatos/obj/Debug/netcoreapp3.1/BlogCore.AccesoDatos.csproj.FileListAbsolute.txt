@@ -1,0 +1,10 @@
+D:\Repositorios\curso-asp\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.deps.json
+D:\Repositorios\curso-asp\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.dll
+D:\Repositorios\curso-asp\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.pdb
+D:\Repositorios\curso-asp\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+D:\Repositorios\curso-asp\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\curso-asp\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+D:\Repositorios\curso-asp\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.AssemblyInfo.cs
+D:\Repositorios\curso-asp\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Repositorios\curso-asp\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.dll
+D:\Repositorios\curso-asp\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.pdb

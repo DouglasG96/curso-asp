@@ -1,0 +1,10 @@
+D:\Repositorios\curso-asp\BlogCore\BlogCore.Models\bin\Debug\netcoreapp3.1\BlogCore.Models.deps.json
+D:\Repositorios\curso-asp\BlogCore\BlogCore.Models\bin\Debug\netcoreapp3.1\BlogCore.Models.dll
+D:\Repositorios\curso-asp\BlogCore\BlogCore.Models\bin\Debug\netcoreapp3.1\BlogCore.Models.pdb
+D:\Repositorios\curso-asp\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.csproj.AssemblyReference.cache
+D:\Repositorios\curso-asp\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\curso-asp\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.AssemblyInfoInputs.cache
+D:\Repositorios\curso-asp\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.AssemblyInfo.cs
+D:\Repositorios\curso-asp\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.csproj.CoreCompileInputs.cache
+D:\Repositorios\curso-asp\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.dll
+D:\Repositorios\curso-asp\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.pdb
