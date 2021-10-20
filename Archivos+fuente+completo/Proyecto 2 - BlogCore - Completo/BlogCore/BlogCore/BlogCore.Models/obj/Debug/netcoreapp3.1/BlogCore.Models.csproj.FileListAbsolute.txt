@@ -6,3 +6,13 @@ C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1
 C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Models\bin\Debug\netcoreapp3.1\BlogCore.Models.pdb
 C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.dll
 C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.pdb
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.Models\bin\Debug\netcoreapp3.1\BlogCore.Models.deps.json
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.Models\bin\Debug\netcoreapp3.1\BlogCore.Models.dll
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.Models\bin\Debug\netcoreapp3.1\BlogCore.Models.pdb
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.csproj.AssemblyReference.cache
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.AssemblyInfoInputs.cache
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.AssemblyInfo.cs
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.csproj.CoreCompileInputs.cache
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.dll
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.Models\obj\Debug\netcoreapp3.1\BlogCore.Models.pdb

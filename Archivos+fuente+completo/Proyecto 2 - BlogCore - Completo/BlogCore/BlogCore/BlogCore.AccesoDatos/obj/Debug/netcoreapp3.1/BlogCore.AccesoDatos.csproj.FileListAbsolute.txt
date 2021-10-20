@@ -11,3 +11,18 @@ C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcorea
 C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.csproj.CopyComplete
 C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.dll
 C:\Users\JANUS\Desktop\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.pdb
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.deps.json
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.dll
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.AccesoDatos.pdb
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Models.dll
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Models.pdb
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.AssemblyInfo.cs
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.csproj.CopyComplete
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.dll
+D:\Repositorios\curso-asp\Archivos+fuente+completo\Proyecto 2 - BlogCore - Completo\BlogCore\BlogCore\BlogCore.AccesoDatos\obj\Debug\netcoreapp3.1\BlogCore.AccesoDatos.pdb

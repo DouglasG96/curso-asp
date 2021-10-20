@@ -594,27 +594,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JANUS\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\DouglasG\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CURSOS Y TUTORIALES\\Master en Asp.Net Core 3.1\\11 - BlogCore - Identity (Autorización)\\Archivos fuente\\BlogCore\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+      "projectUniqueName": "D:\\Repositorios\\curso-asp\\Archivos+fuente+completo\\Proyecto 2 - BlogCore - Completo\\BlogCore\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
       "projectName": "BlogCore.Utilidades",
-      "projectPath": "D:\\CURSOS Y TUTORIALES\\Master en Asp.Net Core 3.1\\11 - BlogCore - Identity (Autorización)\\Archivos fuente\\BlogCore\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
-      "packagesPath": "C:\\Users\\JANUS\\.nuget\\packages\\",
-      "outputPath": "D:\\CURSOS Y TUTORIALES\\Master en Asp.Net Core 3.1\\11 - BlogCore - Identity (Autorización)\\Archivos fuente\\BlogCore\\BlogCore\\BlogCore.Utilidades\\obj\\",
+      "projectPath": "D:\\Repositorios\\curso-asp\\Archivos+fuente+completo\\Proyecto 2 - BlogCore - Completo\\BlogCore\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+      "packagesPath": "C:\\Users\\DouglasG\\.nuget\\packages\\",
+      "outputPath": "D:\\Repositorios\\curso-asp\\Archivos+fuente+completo\\Proyecto 2 - BlogCore - Completo\\BlogCore\\BlogCore\\BlogCore.Utilidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\JANUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\DouglasG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -625,6 +622,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -636,6 +634,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.UI": {
             "target": "Package",
@@ -653,14 +652,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

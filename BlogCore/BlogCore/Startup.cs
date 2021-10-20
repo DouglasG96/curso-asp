@@ -1,4 +1,4 @@
-using BlogCore.Data;
+using BlogCore.AccesoDatos.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -31,8 +31,8 @@ namespace BlogCore
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ApplicationDbContext>();
-            services.AddControllersWithViews().AddRazorRuntimeCompilation();
+                .AddEntityFrameworkStores<ApplicationDbContext>();            
+            services.AddControllersWithViews();
             services.AddRazorPages();
         }
 
@@ -42,7 +42,7 @@ namespace BlogCore
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseDatabaseErrorPage();
+                //app.UseDatabaseErrorPage();
             }
             else
             {

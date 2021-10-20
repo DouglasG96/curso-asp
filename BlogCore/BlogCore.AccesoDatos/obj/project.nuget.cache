@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CDBHhgkX6M7i+3kL+oPVgQedsS3umXKrT9AUqKtQ0YI6nn29bywIKoAhWMZa1Z2d0xlal2+mAJ0vHFBE+w/Irw==",
+  "dgSpecHash": "TgFE+hzK/SFruGcWchP5CVtlDEiUEtctU8U5D931zNq4afj/5c5lp+prMdmP0fkDKwqBGj4Cf4yoWPghSd/WzA==",
   "success": true,
   "projectFilePath": "D:\\Repositorios\\curso-asp\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\DouglasG\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\DouglasG\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\DouglasG\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\DouglasG\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\5.0.10\\microsoft.aspnetcore.identity.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\DouglasG\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\2.2.0\\microsoft.aspnetcore.jsonpatch.2.2.0.nupkg.sha512",
     "C:\\Users\\DouglasG\\.nuget\\packages\\microsoft.aspnetcore.localization\\2.2.0\\microsoft.aspnetcore.localization.2.2.0.nupkg.sha512",
     "C:\\Users\\DouglasG\\.nuget\\packages\\microsoft.aspnetcore.mvc\\2.2.0\\microsoft.aspnetcore.mvc.2.2.0.nupkg.sha512",
